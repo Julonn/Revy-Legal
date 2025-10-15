@@ -1,0 +1,40 @@
+Revy — Terms of Service
+
+Last updated: October 14, 2025
+
+Thank you for using Revy, a Discord bot developed by Julius.
+Revy allows Discord servers to collect and display user reviews (ratings and comments).
+
+By adding or using Revy on your server, you agree to the following Terms of Service:
+
+1. Usage
+
+Revy is intended for use within Discord only.
+You must have the necessary permissions on your server to configure or interact with the bot.
+You agree not to abuse the bot or use it for spam, harassment, or any activity that violates Discord’s Terms of Service
+ or community guidelines.
+
+2. Data Collected
+
+Revy stores only the data required for its operation:
+Discord server ID
+Configured channel IDs
+Reviews (rating, optional comment, and reviewer’s user ID)
+No additional personal information is collected.
+All data is used solely to enable the bot’s features and is never shared with third parties.
+
+3. Data Removal
+
+Server administrators can:
+Delete reviews directly from Discord.
+Remove the bot from their server — this will automatically delete all related data within a reasonable timeframe.
+
+4. Liability
+
+Revy is provided “as is”, without warranty of any kind.
+The developer is not responsible for data loss, misuse, or service interruptions caused by Discord API issues or user actions.
+
+5. Changes
+
+These Terms of Service may be updated at any time.
+Continued use of Revy after changes are published means you accept the updated terms.
