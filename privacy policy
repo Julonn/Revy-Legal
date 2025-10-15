@@ -1,0 +1,53 @@
+Revy — Privacy Policy
+
+Last updated: October 14, 2025
+This Privacy Policy explains how Revy (“the bot”, “we”, “our”) collects, stores, and uses data when you interact with it on Discord.
+By using Revy, you agree to this Privacy Policy.
+
+1. Data We Collect
+
+Revy only stores data that is strictly necessary for the bot’s core functionality.
+This includes:
+Server ID (to identify where the bot is installed)
+Configured channel IDs (to know where to post or manage reviews)
+User IDs (to identify who submitted a review)
+Review content (ratings and optional text comments)
+No sensitive or personally identifiable information (such as email addresses, IPs, or Discord tokens) is ever collected.
+
+2. How We Use the Data
+
+Collected data is used only to:
+Display reviews and ratings on your Discord server
+Keep configuration settings consistent between bot restarts
+Improve the reliability and stability of Revy’s features
+We never share, sell, or rent your data to any third party.
+
+3. Data Storage and Security
+
+All stored data is kept in a secure database with restricted access.
+Reasonable security measures are taken to prevent unauthorized access or data loss.
+However, no online service is 100% secure, and we cannot guarantee absolute protection.
+
+4. Data Retention and Deletion
+
+Data is retained only as long as the bot remains on your server.
+When you remove Revy from your server, all related data is automatically deleted within a reasonable timeframe.
+You may also contact the developer to request manual data deletion.
+
+5. Third-Party Services
+
+Revy does not share data with external services or analytics platforms.
+If this changes in the future, this Privacy Policy will be updated accordingly.
+
+6. Your Rights
+
+You have the right to:
+Request access to data stored about your server or account.
+Request deletion of your data at any time.
+To exercise these rights, please contact the developer via Discord (username: julivs.27).
+
+7. Changes to This Policy
+
+This Privacy Policy may be updated periodically.
+The “Last updated” date will always reflect the latest version.
+Continued use of Revy after updates means you accept the revised policy.
